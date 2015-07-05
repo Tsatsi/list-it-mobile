@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">List-it-mobile</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_item">ListItemActivity</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="title_activity_add_item">Add List Item</string>
+    <string name="listItemName">Item Name</string>
+    <string name="description">Description</string>
+    <string name="addListItem">Add</string>
+    <string name="select">Priority</string>
+    <string name="action_add_item">Add Item</string>
+    <string name="title_activity_list_order_items">ListOrderItems</string>
+</resources>
